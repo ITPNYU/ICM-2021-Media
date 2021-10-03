@@ -8,10 +8,10 @@
 
 ## Dates
 
-1. Monday, October 26
-2. Monday, November 2
-3. Monday, November 9
-4. Monday, November 16
-5. Monday, November 23
-6. Monday, November 30
-7. Monday, December 7
+1. Thursday, October 21
+2. Thursday, October 28
+3. Thursday, November 4
+4. Thursday, November 11
+5. Thursday, November 18
+6. Thursday, December 2
+7. Thursday, December 9
