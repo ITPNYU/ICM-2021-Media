@@ -3,9 +3,9 @@
 - [John Henry Thompson](http://johnhenrythompson.com)
 - My email: john.henry.thompson@nyu.edu
 - Time: Wednesdays 6:40PM - 9:10PM EST
-- Location: TBD
-- [Homework Wiki](https://github.com/ITPNYU/ICM-2021-Media/wiki/Homework-John-Henry}
-- [Office Hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU9jUThoemdoTVY1fGRlZmF1bHR8ODQ5NDZhM2JjY2ZmMDMzMmI3Nzc3MTk1Yjk2NTY2M2Y)
+- Location: 370 Jay Street, Room 410
+- [Homework Wiki](https://github.com/ITPNYU/ICM-2021-Media/wiki/Homework-John-Henry)
+- [Office Hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
 
 ## Dates
 

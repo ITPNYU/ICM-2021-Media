@@ -97,8 +97,15 @@ Laptops will be an essential part of the course and may be used in class during 
 - "The bow too tensely strung is easily broken." - don't get too stressed out
 - All of these are from Plubius Syrus. (42 B.C.)
 
+## 2021 Code
+
+7 Weeks of Media is usually preceeded by 7 Weeks of Code.
+
+- [2021-Code](https://github.com/ITPNYU/ICM-2021-Code/)
+
 ## Previous Years
 
+- [2020](https://github.com/ITPNYU/ICM-2020-Media/)
 - [2019](https://github.com/ITPNYU/ICM-2019-Code/)
 - [2018](https://github.com/ITPNYU/ICM-2018/)
 - [2017](https://github.com/ITPNYU/ICM-2017/)
